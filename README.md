@@ -1,16 +1,23 @@
-## Hi there 👋
+```bash
+┌──(kali㉿avivyap)-[~]
+└─$ cat about_me.txt
+Name: avivyap
+OS: Linux (btw)
+Focus: Offensive Security / Web App Pentesting
+Current Mission: Studying for PortSwigger Certified Web Security Tester (C|WST)
 
-<!--
-**avivyap/avivyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌──(kali㉿avivyap)-[~]
+└─$ cat skills.txt
+[+] Python scripting (automation, scraping, tooling)
+[+] Linux CLI & bash basics
+[+] Burp Suite, OWASP Top 10
+[~] Still learning every day...
 
-Here are some ideas to get you started:
+┌──(kali㉿avivyap)-[~]
+└─$ ./connect.sh
+📡 GitHub: https://github.com/avivyap
+📬 Email: tuemail@domain.com
+🧪 Labs: PortSwigger | TryHackMe | HackTheBox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──(kali㉿avivyap)-[~]
+└─$ echo "Attack. Analyze. Automate. Always learn."

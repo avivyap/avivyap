@@ -16,8 +16,4 @@ Current Mission: Studying for PortSwigger Certified Web Security Tester (C|WST)
 ┌──(kali㉿avivyap)-[~]
 └─$ ./connect.sh
 📡 GitHub: https://github.com/avivyap
-📬 Email: tuemail@domain.com
 🧪 Labs: PortSwigger | TryHackMe | HackTheBox
-
-┌──(kali㉿avivyap)-[~]
-└─$ echo "Attack. Analyze. Automate. Always learn."

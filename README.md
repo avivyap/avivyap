@@ -7,8 +7,8 @@
 ┌──(kali㉿avivyap)-[~]
 └─$ cat about_me.txt
 Name: avivyap
-OS: Linux (btw)
-Focus: Offensive Security / Web App Pentesting
+OS: Linux 
+Focus: Offensive Security 
 Current Mission: Studying for PortSwigger Certified Web Security Tester (C|WST)
 
 ┌──(kali㉿avivyap)-[~]
@@ -21,7 +21,6 @@ Current Mission: Studying for PortSwigger Certified Web Security Tester (C|WST)
 ┌──(kali㉿avivyap)-[~]
 └─$ ./connect.sh
 📡 GitHub: https://github.com/avivyap
-📬 Email: tuemail@domain.com
 🧪 Labs: PortSwigger | TryHackMe | HackTheBox
 
 ┌──(kali㉿avivyap)-[~]

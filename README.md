@@ -25,3 +25,18 @@ Current Mission: Studying for PortSwigger Certified Web Security Tester (C|WST)
 
 ┌──(kali㉿avivyap)-[~]
 └─$ echo "Attack. Analyze. Automate. Always learn."
+
+┌──(kali㉿avivyap)-[~/skills]
+└─$ cat tech_stack.txt
+[+] 🐍 Python
+[+] 🐧 Linux
+[+] 🐳 Docker
+[+] ☁️ AWS
+[+] 🗄️ Oracle
+[+] 🐉 Kali Linux
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,docker,aws" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+</p>

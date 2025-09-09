@@ -1,7 +1,3 @@
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=flat&logo=burpsuite&logoColor=white)
-![Security](https://img.shields.io/badge/Web%20Security-0f0f0f?style=flat&logo=owasp&logoColor=white)
-
-
 ```bash
 ┌──(kali㉿avivyap)-[~]
 └─$ cat about_me.txt
@@ -32,6 +28,11 @@ Mision actual: studiando para PortSwigger Certified Web Security Tester (BSCP)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![SQL](https://skillicons.dev/icons?i=mysql)
 ![Kali](https://skillicons.dev/icons?i=kali)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Security](https://img.shields.io/badge/Web%20Security-0f0f0f?style=for-the-badge&logo=owasp&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/PacketTracer-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+
+
 
 

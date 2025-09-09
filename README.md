@@ -3,38 +3,37 @@
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=flat&logo=burpsuite&logoColor=white)
 ![Security](https://img.shields.io/badge/Web%20Security-0f0f0f?style=flat&logo=owasp&logoColor=white)
 
+
 ```bash
 ┌──(kali㉿avivyap)-[~]
 └─$ cat about_me.txt
-Name: avivyap
+Nombre: avivyap
 OS: Linux 
 Focus: Offensive Security 
-Current Mission: Studying for PortSwigger Certified Web Security Tester (C|WST)
+Mision actual: studiando para PortSwigger Certified Web Security Tester (BSCP)
 
 ┌──(kali㉿avivyap)-[~]
-└─$ cat skills.txt
-[+] Python scripting (automation, scraping, tooling)
-[+] Linux CLI & bash basics
-[+] Burp Suite, OWASP Top 10
-[~] Still learning every day...
+└─$ cat habilidades.txt
+[+] Scripting en Python (automatización, scraping, herramientas)
+[+] CLI de Linux & conceptos básicos de bash
+[+] Burp Suite, OWASP Top 10.
 
 ┌──(kali㉿avivyap)-[~]
-└─$ ./connect.sh
+└─$ ./conectar.sh
 📡 GitHub: https://github.com/avivyap
-🧪 Labs: PortSwigger | TryHackMe | HackTheBox
+🧪 Laboratorios: PortSwigger | TryHackMe | HackTheBox
+
 
 ┌──(kali㉿avivyap)-[~]
-└─$ echo "Attack. Analyze. Automate. Always learn."
+└─$ print tecnologias_que_domino.txt
 
-## ⚡ Tecnologías que domino
-
-## ⚡ Tecnologías que domino
-
+```
 ![Python](https://skillicons.dev/icons?i=python)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![AWS](https://skillicons.dev/icons?i=aws)
-![Oracle](https://skillicons.dev/icons?i=oracle)
+![SQL](https://skillicons.dev/icons?i=mysql)
 ![Kali](https://skillicons.dev/icons?i=kali)
+![Packet Tracer](https://img.shields.io/badge/PacketTracer-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 

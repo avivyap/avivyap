@@ -1,5 +1,3 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=flat&logo=burpsuite&logoColor=white)
 ![Security](https://img.shields.io/badge/Web%20Security-0f0f0f?style=flat&logo=owasp&logoColor=white)
 

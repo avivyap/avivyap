@@ -15,7 +15,7 @@ Misión actual: Estudiando para PortSwigger Certified Web Security Tester (BSCP)
 ┌──(kali㉿avivyap)-[~]
 └─$ ./conectar.sh
 📡 GitHub: https://github.com/avivyap
-🧪 Laboratorios: PortSwigger | TryHackMe | HackTheBox
+🧪 Laboratorios: PortSwigger | HackMyVM | HackTheBox
 
 
 ┌──(kali㉿avivyap)-[~]

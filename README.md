@@ -4,7 +4,7 @@
 Nombre: avivyap
 OS: Linux 
 Focus: Offensive Security 
-Misión actual: Estudiando para PortSwigger Certified Web Security Tester (BSCP)
+Misión actual: Estudiando para eCPPTV3
 
 ┌──(kali㉿avivyap)-[~]
 └─$ cat habilidades.txt

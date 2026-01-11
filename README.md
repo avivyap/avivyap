@@ -22,7 +22,7 @@ Misión actual: Estudiando para eCPPTV3
 └─$ print tecnologias_que_domino.txt
 ```
 ```bash
-[+] Lenguajes / Scripting: Python, SQL,PHP
+[+] Lenguajes / Scripting: Python, SQL, PHP
 ```
 ![Python](https://skillicons.dev/icons?i=python)
 ![SQL](https://skillicons.dev/icons?i=mysql)

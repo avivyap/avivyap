@@ -24,6 +24,7 @@ Cloud Engineer
 Alias: avivyap
 
 Education:
+  - SMR
   - ASIR
 
 Certifications:

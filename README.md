@@ -12,7 +12,7 @@ Cybersecurity Enthusiast
 Cloud Engineer
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=ASIR+Graduate;eCPPTv3+Certified;OSCP+Candidate;AZ-104+Student;Linux+%7C+Networking+%7C+Cloud+%7C+Security" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=ASIR+Graduate;eCPPTv3+Certified;OSCP+Candidate;AZ-900+Student;Linux+%7C+Networking+%7C+Cloud+%7C+Security" />
 
 </div>
 
@@ -29,7 +29,7 @@ Education:
 Certifications:
   - eCPPTv3 ✔
   - OSCP (In Progress)
-  - Microsoft AZ-104 (In Progress)
+  - Microsoft AZ-900 (In Progress)
 
 Areas of Interest:
   - Offensive Security

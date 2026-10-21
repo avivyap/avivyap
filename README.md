@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm avivyap
+# Hi, I'm avivyap
 
 ```bash
 ┌──(avivyap㉿github)-[~]

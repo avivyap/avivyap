@@ -18,7 +18,7 @@ Cloud Engineer
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 ```yaml
 Alias: avivyap
@@ -46,7 +46,7 @@ Areas of Interest:
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -56,7 +56,7 @@ Areas of Interest:
 
 ---
 
-# 📚 Experience
+#  Experience
 
 ✔ Linux Administration
 
@@ -80,7 +80,7 @@ Areas of Interest:
 
 ---
 
-# 🎯 Currently Learning
+#  Currently Learning
 
 - 🔴 OSCP
 - ☁ Microsoft Azure (AZ-104)
